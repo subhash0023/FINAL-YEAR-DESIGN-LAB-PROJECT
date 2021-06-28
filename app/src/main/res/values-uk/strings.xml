@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Простий Менеджер Файлів</string>
+    <string name="app_launcher_name">Менеджер Файлів</string>
+    <string name="press_back_again">Для виходу натисніть Назад ще раз</string>
+    <string name="go_to_home_folder">Перейти у домашню теку</string>
+    <string name="set_as_home_folder">Встановити як домашню теку</string>
+    <string name="home_folder_updated">Домашню теку оновлено</string>
+    <string name="copy_path">Скопіювати шлях у буфер обміну</string>
+    <string name="path_copied">Шлях скопійовано</string>
+    <string name="select_audio_file">Будь ласка, оберіть аудіо файл</string>
+    <string name="search_folder">Шукати теку</string>
+    <string name="rooted_device_only">Ця команда працює лише на пристроях з root-доступом</string>
+    <string name="recents">Останні</string>
+    <string name="show_recents">Показати останні</string>
+
+    <!-- Open as -->
+    <string name="open_as">Відкрити як файл</string>
+    <string name="text_file">Текстовий</string>
+    <string name="image_file">Зображення</string>
+    <string name="audio_file">Аудіо</string>
+    <string name="video_file">Відео</string>
+    <string name="other_file">Інший тип</string>
+
+    <!-- Compression -->
+    <string name="compress">Стиснути</string>
+    <string name="decompress">Розпакувати</string>
+    <string name="compress_as">Стиснути як</string>
+    <string name="compressing">Триває стиснення…</string>
+    <string name="decompressing">Триває розпакування…</string>
+    <string name="compression_successful">Успішно стиснено</string>
+    <string name="decompression_successful">Успішно розпаковано</string>
+    <string name="compressing_failed">Не вдалося стиснути</string>
+    <string name="decompressing_failed">Не вдалося розпакувати</string>
+
+    <!-- Favorites -->
+    <string name="manage_favorites">Керувати вибраним</string>
+    <string name="go_to_favorite">Перейти у вибране</string>
+    <string name="favorites_activity_placeholder">Ви можете додати теки, які часто відкриваєте, у вибране, щоб швидко отримати до них доступ.</string>
+
+    <!-- File Editor -->
+    <string name="file_editor">Редактор файлів</string>
+
+    <!-- Settings -->
+    <string name="enable_root_access">Активувати root-доступ</string>
+    <string name="press_back_twice">Натисніть Назад двічі, щоб вийти з додатка</string>
+
+    <!-- Strings displayed only on Google Play Store. Optional, but good to have -->
+    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
+    <string name="app_title">Simple File Manager Pro - Керуйте файлами легко &amp; швидко</string>
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Зручний додаток для керування вашими файлами без реклами, з повагою до вашої приватності &amp; безпеки</string>
+    <string name="app_long_description">
+        Простий і швидкий файловий менеджер нащодень. Він пропонує корисні функціональні пошукові можливості. Налаштовуйте домашню теку і обирайте улюблені теки для швидкого доступу.
+
+        Додаток містить численні дієві функції, що пов\'язані з безпекою, а саме: захист паролем прихованих елементів, видалення файлів або цілого додатка. Обирайте, як зберігати ваші дані у приватності, використовуючи ключ, PIN чи відбиток пальця.
+
+        Цей сучасний файловий органайзер підтримує швидкий перегляд файлів із root доступом, SD карт та USB пристроїв.
+
+        Очевидно, що додаток може виконувати всі стандартні дії з файлами, наприклад: перейменувати, копіювати, перемістити, видалити, поділитися тощо, що дозволить вам залишатися продуктивним. Додаток також можна використовувати для звільнення пам\'яті, оскільки він підтримує стиснення та розпакування. Ви можете легко створювати нові файли чи теки, якщо забажаєте.
+
+        Сортуйте елементи за різними параметрами, за зростанням чи спаданням.
+
+        Лише кілька натисків - і ви можете переглянути деталі файлу чи теки, що містять такі дані, як розмір файлу, дату останньої зміни, чи EXIF дані, а саме: дату створення фотографії, модель камери тощо.
+
+        Щоб швидко отримати штях до файлу чи теки, здійсніть тривалий натиск, і ви скопіюєте його у буфер обміну.
+
+        Створюйте зручні ярлики на головному екрані для швидкого доступу до ваших улюблених елементів.
+
+        Додаток містить простий файловий редактор. Використовуйте його для друку документів, редагуйте їх або просто переглядайте, використовуючи жести наближення, коли це необхідно.
+
+        Додаток має просте оформлення і темну тему, забезпечує чудовий користувацький досвід. Відсутність доступу до інтернету надає більше приватності, безпеки та стабільності, ніж інші додатки.
+
+        Цей додаток не буде показувати рекламу, потрібні лише найнеобхідніші дозволи. Додаток має повністю відкритий програмний код, кольори оформлення можна легко налаштувати.
+
+        <b>Ознайомтеся з Простими Інструментами тут:</b>
+        https://www.simplemobiletools.com
+
+        <b>Веб-сайт Simple File Manager Pro:</b>
+        https://www.simplemobiletools.com/filemanager
+
+        <b>Facebook:</b>
+        https://www.facebook.com/simplemobiletools
+
+        <b>Reddit:</b>
+        https://www.reddit.com/r/SimpleMobileTools
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>
